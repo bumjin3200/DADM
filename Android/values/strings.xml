@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DADM</string>
+    <string name="setup_macro">Setup Macro Message</string>
+    <string name="delete_macro">Delete Macro Message</string>
+    <string name="check_message">Check Message List</string>
+    <string name="input_report">Setup Report Info</string>
+
+    <string name="message_list">Message List</string>
+    <string name="input_message">Input Message</string>
+    <string name="input_number">Input report number</string>
+</resources>
